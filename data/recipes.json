@@ -1,0 +1,476 @@
+{
+  "oak_planks": {
+    "yield": 4,
+    "ingredients": {
+      "oak_log": 1
+    }
+  },
+  "stick": {
+    "yield": 4,
+    "ingredients": {
+      "oak_planks": 2
+    }
+  },
+  "crafting_table": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 4
+    }
+  },
+  "furnace": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 8
+    }
+  },
+  "iron_ingot": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ore": 1
+    }
+  },
+  "gold_ingot": {
+    "yield": 1,
+    "ingredients": {
+      "gold_ore": 1
+    }
+  },
+  "copper_ingot": {
+    "yield": 1,
+    "ingredients": {
+      "raw_copper": 1
+    }
+  },
+  "glass": {
+    "yield": 1,
+    "ingredients": {
+      "sand": 1
+    }
+  },
+  "brick": {
+    "yield": 1,
+    "ingredients": {
+      "clay_ball": 1
+    }
+  },
+  "bricks_block": {
+    "yield": 1,
+    "ingredients": {
+      "brick": 4
+    }
+  },
+  "paper": {
+    "yield": 3,
+    "ingredients": {
+      "sugar_cane": 3
+    }
+  },
+  "book": {
+    "yield": 1,
+    "ingredients": {
+      "paper": 3,
+      "leather": 1
+    }
+  },
+  "sugar": {
+    "yield": 1,
+    "ingredients": {
+      "sugar_cane": 1
+    }
+  },
+  "wooden_pickaxe": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 3,
+      "stick": 2
+    }
+  },
+  "stone_pickaxe": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 3,
+      "stick": 2
+    }
+  },
+  "iron_pickaxe": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 3,
+      "stick": 2
+    }
+  },
+  "diamond_pickaxe": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 3,
+      "stick": 2
+    }
+  },
+  "wooden_axe": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 3,
+      "stick": 2
+    }
+  },
+  "stone_axe": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 3,
+      "stick": 2
+    }
+  },
+  "iron_axe": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 3,
+      "stick": 2
+    }
+  },
+  "diamond_axe": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 3,
+      "stick": 2
+    }
+  },
+  "wooden_shovel": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 1,
+      "stick": 2
+    }
+  },
+  "stone_shovel": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 1,
+      "stick": 2
+    }
+  },
+  "iron_shovel": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 1,
+      "stick": 2
+    }
+  },
+  "diamond_shovel": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 1,
+      "stick": 2
+    }
+  },
+  "wooden_hoe": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 2,
+      "stick": 2
+    }
+  },
+  "iron_hoe": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 2,
+      "stick": 2
+    }
+  },
+  "shears": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 2
+    }
+  },
+  "bucket": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 3
+    }
+  },
+  "flint_and_steel": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 1,
+      "flint": 1
+    }
+  },
+  "fishing_rod": {
+    "yield": 1,
+    "ingredients": {
+      "stick": 3,
+      "string": 2
+    }
+  },
+  "compass": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 4,
+      "redstone": 1
+    }
+  },
+  "clock": {
+    "yield": 1,
+    "ingredients": {
+      "gold_ingot": 4,
+      "redstone": 1
+    }
+  },
+  "glass_bottle": {
+    "yield": 3,
+    "ingredients": {
+      "glass": 3
+    }
+  },
+  "wooden_sword": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 2,
+      "stick": 1
+    }
+  },
+  "stone_sword": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 2,
+      "stick": 1
+    }
+  },
+  "iron_sword": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 2,
+      "stick": 1
+    }
+  },
+  "diamond_sword": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 2,
+      "stick": 1
+    }
+  },
+  "bow": {
+    "yield": 1,
+    "ingredients": {
+      "stick": 3,
+      "string": 3
+    }
+  },
+  "arrow": {
+    "yield": 4,
+    "ingredients": {
+      "stick": 1,
+      "flint": 1,
+      "feather": 1
+    }
+  },
+  "shield": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 6,
+      "iron_ingot": 1
+    }
+  },
+  "tnt": {
+    "yield": 1,
+    "ingredients": {
+      "gunpowder": 5,
+      "sand": 4
+    }
+  },
+  "iron_helmet": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 5
+    }
+  },
+  "iron_chestplate": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 8
+    }
+  },
+  "iron_leggings": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 7
+    }
+  },
+  "iron_boots": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 4
+    }
+  },
+  "diamond_helmet": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 5
+    }
+  },
+  "diamond_chestplate": {
+    "yield": 1,
+    "ingredients": {
+      "diamond": 8
+    }
+  },
+  "bread": {
+    "yield": 1,
+    "ingredients": {
+      "wheat": 3
+    }
+  },
+  "cookie": {
+    "yield": 8,
+    "ingredients": {
+      "wheat": 2,
+      "cocoa_beans": 1
+    }
+  },
+  "cake": {
+    "yield": 1,
+    "ingredients": {
+      "milk_bucket": 3,
+      "sugar": 2,
+      "egg": 1,
+      "wheat": 3
+    }
+  },
+  "chest": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 8
+    }
+  },
+  "bed": {
+    "yield": 1,
+    "ingredients": {
+      "wool": 3,
+      "oak_planks": 3
+    }
+  },
+  "torch": {
+    "yield": 4,
+    "ingredients": {
+      "coal": 1,
+      "stick": 1
+    }
+  },
+  "ladder": {
+    "yield": 3,
+    "ingredients": {
+      "stick": 7
+    }
+  },
+  "bookshelf": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 6,
+      "book": 3
+    }
+  },
+  "item_frame": {
+    "yield": 1,
+    "ingredients": {
+      "stick": 8,
+      "leather": 1
+    }
+  },
+  "painting": {
+    "yield": 1,
+    "ingredients": {
+      "stick": 8,
+      "wool": 1
+    }
+  },
+  "sign": {
+    "yield": 3,
+    "ingredients": {
+      "oak_planks": 6,
+      "stick": 1
+    }
+  },
+  "fence": {
+    "yield": 3,
+    "ingredients": {
+      "stick": 4,
+      "oak_planks": 2
+    }
+  },
+  "fence_gate": {
+    "yield": 1,
+    "ingredients": {
+      "stick": 4,
+      "oak_planks": 2
+    }
+  },
+  "door": {
+    "yield": 3,
+    "ingredients": {
+      "oak_planks": 6
+    }
+  },
+  "trapdoor": {
+    "yield": 2,
+    "ingredients": {
+      "oak_planks": 6
+    }
+  },
+  "piston": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 3,
+      "cobblestone": 4,
+      "iron_ingot": 1,
+      "redstone": 1
+    }
+  },
+  "dropper": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 7
+    }
+  },
+  "hopper": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 5,
+      "chest": 1
+    }
+  },
+  "observer": {
+    "yield": 1,
+    "ingredients": {
+      "cobblestone": 6,
+      "redstone": 2,
+      "quartz": 1
+    }
+  },
+  "rail": {
+    "yield": 16,
+    "ingredients": {
+      "iron_ingot": 6,
+      "stick": 1
+    }
+  },
+  "minecart": {
+    "yield": 1,
+    "ingredients": {
+      "iron_ingot": 5
+    }
+  },
+  "boat": {
+    "yield": 1,
+    "ingredients": {
+      "oak_planks": 5
+    }
+  },
+  "lead": {
+    "yield": 2,
+    "ingredients": {
+      "string": 4,
+      "slimeball": 1
+    }
+  }
+}

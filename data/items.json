@@ -1,0 +1,487 @@
+{
+  "oak_log": {
+    "name": "Дубовое бревно",
+    "category": "Сырьё",
+    "icon": "🪵"
+  },
+  "cobblestone": {
+    "name": "Булыжник",
+    "category": "Сырьё",
+    "icon": "🪨"
+  },
+  "sand": {
+    "name": "Песок",
+    "category": "Сырьё",
+    "icon": "🏖️"
+  },
+  "iron_ore": {
+    "name": "Железная руда",
+    "category": "Сырьё",
+    "icon": "⛏️"
+  },
+  "gold_ore": {
+    "name": "Золотая руда",
+    "category": "Сырьё",
+    "icon": "⛏️"
+  },
+  "coal": {
+    "name": "Уголь",
+    "category": "Сырьё",
+    "icon": "⚫"
+  },
+  "diamond": {
+    "name": "Алмаз",
+    "category": "Сырьё",
+    "icon": "💎"
+  },
+  "redstone": {
+    "name": "Редстоун",
+    "category": "Сырьё",
+    "icon": "🔴"
+  },
+  "quartz": {
+    "name": "Кварц",
+    "category": "Сырьё",
+    "icon": "⚪"
+  },
+  "clay_ball": {
+    "name": "Ком глины",
+    "category": "Сырьё",
+    "icon": "🟤"
+  },
+  "string": {
+    "name": "Нить",
+    "category": "Сырьё",
+    "icon": "🧵"
+  },
+  "feather": {
+    "name": "Перо",
+    "category": "Сырьё",
+    "icon": "🪶"
+  },
+  "gunpowder": {
+    "name": "Порох",
+    "category": "Сырьё",
+    "icon": "💥"
+  },
+  "leather": {
+    "name": "Кожа",
+    "category": "Сырьё",
+    "icon": "🟫"
+  },
+  "flint": {
+    "name": "Кремень",
+    "category": "Сырьё",
+    "icon": "🔺"
+  },
+  "wheat": {
+    "name": "Пшеница",
+    "category": "Сырьё",
+    "icon": "🌾"
+  },
+  "sugar_cane": {
+    "name": "Сахарный тростник",
+    "category": "Сырьё",
+    "icon": "🎋"
+  },
+  "egg": {
+    "name": "Яйцо",
+    "category": "Сырьё",
+    "icon": "🥚"
+  },
+  "milk_bucket": {
+    "name": "Ведро молока",
+    "category": "Сырьё",
+    "icon": "🥛"
+  },
+  "cocoa_beans": {
+    "name": "Какао-бобы",
+    "category": "Сырьё",
+    "icon": "🍫"
+  },
+  "wool": {
+    "name": "Шерсть",
+    "category": "Сырьё",
+    "icon": "🧶"
+  },
+  "slimeball": {
+    "name": "Слизь",
+    "category": "Сырьё",
+    "icon": "🟢"
+  },
+  "amethyst_shard": {
+    "name": "Осколок аметиста",
+    "category": "Сырьё",
+    "icon": "🔮"
+  },
+  "raw_copper": {
+    "name": "Необработанная медь",
+    "category": "Сырьё",
+    "icon": "🟠"
+  },
+  "chicken": {
+    "name": "Сырая курица",
+    "category": "Сырьё",
+    "icon": "🍗"
+  },
+  "beef": {
+    "name": "Сырая говядина",
+    "category": "Сырьё",
+    "icon": "🥩"
+  },
+  "oak_planks": {
+    "name": "Дубовые доски",
+    "category": "Материалы",
+    "icon": "🟫"
+  },
+  "stick": {
+    "name": "Палка",
+    "category": "Материалы",
+    "icon": "🥢"
+  },
+  "iron_ingot": {
+    "name": "Железный слиток",
+    "category": "Материалы",
+    "icon": "⚙️"
+  },
+  "gold_ingot": {
+    "name": "Золотой слиток",
+    "category": "Материалы",
+    "icon": "🟡"
+  },
+  "glass": {
+    "name": "Стекло",
+    "category": "Материалы",
+    "icon": "🔷"
+  },
+  "brick": {
+    "name": "Кирпич",
+    "category": "Материалы",
+    "icon": "🧱"
+  },
+  "bricks_block": {
+    "name": "Блок кирпичей",
+    "category": "Материалы",
+    "icon": "🧱"
+  },
+  "paper": {
+    "name": "Бумага",
+    "category": "Материалы",
+    "icon": "📄"
+  },
+  "book": {
+    "name": "Книга",
+    "category": "Материалы",
+    "icon": "📕"
+  },
+  "sugar": {
+    "name": "Сахар",
+    "category": "Материалы",
+    "icon": "🍬"
+  },
+  "copper_ingot": {
+    "name": "Медный слиток",
+    "category": "Материалы",
+    "icon": "🟠"
+  },
+  "crafting_table": {
+    "name": "Верстак",
+    "category": "Инструменты",
+    "icon": "🔨"
+  },
+  "furnace": {
+    "name": "Печь",
+    "category": "Инструменты",
+    "icon": "🔥"
+  },
+  "wooden_pickaxe": {
+    "name": "Деревянная кирка",
+    "category": "Инструменты",
+    "icon": "⛏️"
+  },
+  "stone_pickaxe": {
+    "name": "Каменная кирка",
+    "category": "Инструменты",
+    "icon": "⛏️"
+  },
+  "iron_pickaxe": {
+    "name": "Железная кирка",
+    "category": "Инструменты",
+    "icon": "⛏️"
+  },
+  "diamond_pickaxe": {
+    "name": "Алмазная кирка",
+    "category": "Инструменты",
+    "icon": "⛏️"
+  },
+  "wooden_axe": {
+    "name": "Деревянный топор",
+    "category": "Инструменты",
+    "icon": "🪓"
+  },
+  "stone_axe": {
+    "name": "Каменный топор",
+    "category": "Инструменты",
+    "icon": "🪓"
+  },
+  "iron_axe": {
+    "name": "Железный топор",
+    "category": "Инструменты",
+    "icon": "🪓"
+  },
+  "diamond_axe": {
+    "name": "Алмазный топор",
+    "category": "Инструменты",
+    "icon": "🪓"
+  },
+  "wooden_shovel": {
+    "name": "Деревянная лопата",
+    "category": "Инструменты",
+    "icon": "🔨"
+  },
+  "stone_shovel": {
+    "name": "Каменная лопата",
+    "category": "Инструменты",
+    "icon": "🔨"
+  },
+  "iron_shovel": {
+    "name": "Железная лопата",
+    "category": "Инструменты",
+    "icon": "🔨"
+  },
+  "diamond_shovel": {
+    "name": "Алмазная лопата",
+    "category": "Инструменты",
+    "icon": "🔨"
+  },
+  "wooden_hoe": {
+    "name": "Деревянная мотыга",
+    "category": "Инструменты",
+    "icon": "🌾"
+  },
+  "iron_hoe": {
+    "name": "Железная мотыга",
+    "category": "Инструменты",
+    "icon": "🌾"
+  },
+  "shears": {
+    "name": "Ножницы",
+    "category": "Инструменты",
+    "icon": "✂️"
+  },
+  "bucket": {
+    "name": "Ведро",
+    "category": "Инструменты",
+    "icon": "🪣"
+  },
+  "flint_and_steel": {
+    "name": "Кресало",
+    "category": "Инструменты",
+    "icon": "🔥"
+  },
+  "fishing_rod": {
+    "name": "Удочка",
+    "category": "Инструменты",
+    "icon": "🎣"
+  },
+  "compass": {
+    "name": "Компас",
+    "category": "Инструменты",
+    "icon": "🧭"
+  },
+  "clock": {
+    "name": "Часы",
+    "category": "Инструменты",
+    "icon": "🕐"
+  },
+  "glass_bottle": {
+    "name": "Стеклянная бутылка",
+    "category": "Инструменты",
+    "icon": "🍾"
+  },
+  "wooden_sword": {
+    "name": "Деревянный меч",
+    "category": "Оружие",
+    "icon": "🗡️"
+  },
+  "stone_sword": {
+    "name": "Каменный меч",
+    "category": "Оружие",
+    "icon": "🗡️"
+  },
+  "iron_sword": {
+    "name": "Железный меч",
+    "category": "Оружие",
+    "icon": "🗡️"
+  },
+  "diamond_sword": {
+    "name": "Алмазный меч",
+    "category": "Оружие",
+    "icon": "🗡️"
+  },
+  "bow": {
+    "name": "Лук",
+    "category": "Оружие",
+    "icon": "🏹"
+  },
+  "arrow": {
+    "name": "Стрела",
+    "category": "Оружие",
+    "icon": "➡️"
+  },
+  "shield": {
+    "name": "Щит",
+    "category": "Оружие",
+    "icon": "🛡️"
+  },
+  "tnt": {
+    "name": "Динамит",
+    "category": "Оружие",
+    "icon": "🧨"
+  },
+  "iron_helmet": {
+    "name": "Железный шлем",
+    "category": "Броня",
+    "icon": "⛑️"
+  },
+  "iron_chestplate": {
+    "name": "Железная кираса",
+    "category": "Броня",
+    "icon": "🦺"
+  },
+  "iron_leggings": {
+    "name": "Железные поножи",
+    "category": "Броня",
+    "icon": "👖"
+  },
+  "iron_boots": {
+    "name": "Железные ботинки",
+    "category": "Броня",
+    "icon": "👢"
+  },
+  "diamond_helmet": {
+    "name": "Алмазный шлем",
+    "category": "Броня",
+    "icon": "⛑️"
+  },
+  "diamond_chestplate": {
+    "name": "Алмазная кираса",
+    "category": "Броня",
+    "icon": "🦺"
+  },
+  "bread": {
+    "name": "Хлеб",
+    "category": "Еда",
+    "icon": "🍞"
+  },
+  "cookie": {
+    "name": "Печенье",
+    "category": "Еда",
+    "icon": "🍪"
+  },
+  "cake": {
+    "name": "Торт",
+    "category": "Еда",
+    "icon": "🎂"
+  },
+  "chest": {
+    "name": "Сундук",
+    "category": "Мебель и декор",
+    "icon": "📦"
+  },
+  "bed": {
+    "name": "Кровать",
+    "category": "Мебель и декор",
+    "icon": "🛏️"
+  },
+  "torch": {
+    "name": "Факел",
+    "category": "Мебель и декор",
+    "icon": "🔦"
+  },
+  "ladder": {
+    "name": "Лестница",
+    "category": "Мебель и декор",
+    "icon": "🪜"
+  },
+  "bookshelf": {
+    "name": "Книжный шкаф",
+    "category": "Мебель и декор",
+    "icon": "📚"
+  },
+  "item_frame": {
+    "name": "Рамка для предметов",
+    "category": "Мебель и декор",
+    "icon": "🖼️"
+  },
+  "painting": {
+    "name": "Картина",
+    "category": "Мебель и декор",
+    "icon": "🖼️"
+  },
+  "sign": {
+    "name": "Табличка",
+    "category": "Мебель и декор",
+    "icon": "🪧"
+  },
+  "fence": {
+    "name": "Забор",
+    "category": "Мебель и декор",
+    "icon": "🚧"
+  },
+  "fence_gate": {
+    "name": "Калитка",
+    "category": "Мебель и декор",
+    "icon": "🚪"
+  },
+  "door": {
+    "name": "Дверь",
+    "category": "Мебель и декор",
+    "icon": "🚪"
+  },
+  "trapdoor": {
+    "name": "Люк",
+    "category": "Мебель и декор",
+    "icon": "🚪"
+  },
+  "piston": {
+    "name": "Поршень",
+    "category": "Механизмы",
+    "icon": "⬛"
+  },
+  "dropper": {
+    "name": "Раздатчик",
+    "category": "Механизмы",
+    "icon": "📤"
+  },
+  "hopper": {
+    "name": "Воронка",
+    "category": "Механизмы",
+    "icon": "⏬"
+  },
+  "observer": {
+    "name": "Наблюдатель",
+    "category": "Механизмы",
+    "icon": "👁️"
+  },
+  "rail": {
+    "name": "Рельсы",
+    "category": "Механизмы",
+    "icon": "🛤️"
+  },
+  "minecart": {
+    "name": "Вагонетка",
+    "category": "Транспорт",
+    "icon": "🚃"
+  },
+  "boat": {
+    "name": "Лодка",
+    "category": "Транспорт",
+    "icon": "🛶"
+  },
+  "lead": {
+    "name": "Поводок",
+    "category": "Транспорт",
+    "icon": "🪢"
+  }
+}
